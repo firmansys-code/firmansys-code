@@ -17,6 +17,14 @@ I'm passionate about **Internet of Things (IoT)**! 🚀
 - **Database:** MySQL
 
 ⚡ Keep innovating, keep creating! ⚡
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/firmansys-code">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **firmansys-code/firmansys-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
