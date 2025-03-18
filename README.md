@@ -21,7 +21,7 @@ I'm passionate about **Internet of Things (IoT)**! 🚀
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/firmansys-code">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firmansys-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firmansys-code&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
